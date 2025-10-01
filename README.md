@@ -96,8 +96,6 @@ While both models achieved an identical ROC AUC score, the **XGBoost model demon
 
 ## 📂 Repository Structure
 .
-├── data/
-│   └── loan_data_2007_2014.csv
 ├── feat_imp.png
 ├── random_forest_model.pkl
 ├── xgb_model.pkl
